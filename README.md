@@ -1,4 +1,4 @@
-# Pong game
+# Pong Game
 Um projeto escolar feito com HTML e Javascript
 
 Feito por Gabriel Souza
