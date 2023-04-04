@@ -10,7 +10,7 @@ Feito por Gabriel Souza
 ### ⬆️ Começando:
 - Com o arquivo index.html abra uma localhost e se divirta!
 - caso não saiba como abrir uma localhost, você pode dar uma olha nesse video do canal da Zero Bugs
-``https://youtu.be/BY1vf4PzPuE``
+- https://youtu.be/BY1vf4PzPuE
 
 ### 🥳 Contribuindo:
 Ah! Obrigado por ter gostado do projeto, não aceito doações em dinheiro ou qualquer tipo. quase queira usar seu dinheiro
